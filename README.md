@@ -47,9 +47,8 @@ Manipulação de texto e expressões regulares:
 - Expressões regulares (Regex)
 - Validação e extração de padrões
 
-Praticando: Coleções e Streams
+### Praticando: Coleções e Streams
 Trabalhando com estruturas de dados e programação funcional:
-
 - Coleções: List, Set, Map
 - ArrayList, LinkedList, HashSet, HashMap
 - Streams API: operações funcionais com dados
