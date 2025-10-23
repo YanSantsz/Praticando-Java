@@ -1,6 +1,6 @@
 package ClassesAtributosMetodos.Principal;
 
-import ClassesAtributosMetodos.Classes.Temperatura;
+import ClassesAtributosMetodos.Entidades.Temperatura;
 import java.util.Locale;
 
 public class TemperaturaPrincipal {

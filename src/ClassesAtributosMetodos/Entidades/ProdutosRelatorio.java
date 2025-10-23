@@ -1,4 +1,4 @@
-package ClassesAtributosMetodos.Classes;
+package ClassesAtributosMetodos.Entidades;
 
 public class ProdutosRelatorio {
     String produto = "Mouse Gamer";

@@ -1,4 +1,4 @@
-package ClassesAtributosMetodos.Classes;
+package ClassesAtributosMetodos.Entidades;
 
 public class Saldo {
     public  double valor;

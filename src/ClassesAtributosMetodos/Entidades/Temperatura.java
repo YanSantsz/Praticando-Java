@@ -1,4 +1,4 @@
-package ClassesAtributosMetodos.Classes;
+package ClassesAtributosMetodos.Entidades;
 
 import java.util.Locale;
 

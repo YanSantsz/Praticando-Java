@@ -1,6 +1,6 @@
 package ClassesAtributosMetodos.Principal;
 
-import ClassesAtributosMetodos.Classes.ProdutosRelatorio;
+import ClassesAtributosMetodos.Entidades.ProdutosRelatorio;
 
 public class RelatorioDosProdutos {
     public static void main(String[] args) {

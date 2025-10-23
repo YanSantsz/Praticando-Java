@@ -1,5 +1,5 @@
 package ClassesAtributosMetodos.Principal;
-import ClassesAtributosMetodos.Classes.Saldo;
+import ClassesAtributosMetodos.Entidades.Saldo;
 import java.util.Locale;
 
 public class SaldoPrincipal {
