@@ -1,10 +1,10 @@
-package HerancaPolimorfismoInterfaces.Entidades;
+package HerancaPolimorfismoInterfaces.Entidades.Estudantes;
 
-public class EstudanteAluno {
+public class Aluno {
     protected String nome;
     protected String tipo;
 
-    public EstudanteAluno(String nome, String tipo) {
+    public Aluno(String nome, String tipo) {
         this.nome = nome;
         this.tipo = tipo;
     }
